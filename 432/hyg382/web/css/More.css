@@ -18,6 +18,8 @@
 	z-index: -1;
 }
 
+a{text-decoration: none;/*取消文本超链接的下划线*/color: white;}
+
 .mytitle {
 	width: 88%;
 	height: 200px;
@@ -30,6 +32,7 @@
 }
 
 .return {
+	background-color: rgba(0,0,0,0.5);
 	float: left;
 	width: 100px;
 }
