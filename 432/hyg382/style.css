@@ -21,7 +21,8 @@ a{text-decoration: none;/*取消文本超链接的下划线*/color: white;}
 
 
 .zuo{
-	width: 26%;height:620px;
+	width: 26%;
+	height:620px;
 	display: flex;
 	justify-content: right;
 	position:fixed;
