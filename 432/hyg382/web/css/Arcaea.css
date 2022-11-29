@@ -51,6 +51,11 @@ a{text-decoration: none}
 	font-family: Microsoft Yahei;
 }
 
+.charr{
+	width: 1000px;
+	height: auto;
+}
+
 .poem{
 	color: white;
 	font-size: 20px;
